@@ -21,3 +21,4 @@ Repositorio utilizado para mostrar como colaborar
 11. JORGE CARO
 3. JAVIER SIERRA
 8. Adonis Tejeda
+7. KRHISTEN JOSEPH
