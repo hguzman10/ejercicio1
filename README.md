@@ -20,3 +20,4 @@ Repositorio utilizado para mostrar como colaborar
 26. Steffani Dimas
 11. JORGE CARO
 3. JAVIER SIERRA
+8. Adonis Tejeda
