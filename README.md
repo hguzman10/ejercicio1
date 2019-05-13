@@ -2,4 +2,4 @@
 Repositorio utilizado para mostrar como colaborar
 
 1. HENRY GUZMAN
-20. Fausto Stand...
+20. Fausto Stand..
