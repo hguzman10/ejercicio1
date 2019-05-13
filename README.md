@@ -12,4 +12,5 @@ Repositorio utilizado para mostrar como colaborar
 9.  CAMILO AYOLA
 10. MARLO OBREDOR 
 11. Luis Hernandez
-
+5. LUIS MORALES
+23. francisco charris
