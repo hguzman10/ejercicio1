@@ -18,3 +18,4 @@ Repositorio utilizado para mostrar como colaborar
 20. Fausto Stand..
 23. francisco charris
 26. Steffani Dimas
+11. JORGE CARO
