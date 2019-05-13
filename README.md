@@ -9,4 +9,5 @@ Repositorio utilizado para mostrar como colaborar
 4. JUAN RODRIGUEZ
 9. JOSE PEÑA
 2.CAMILO AYOLA
-22. MARLO OBREDOR
+22. MARLO OBREDOR 
+8. Luis Hernandez
