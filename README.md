@@ -22,3 +22,4 @@ Repositorio utilizado para mostrar como colaborar
 3. JAVIER SIERRA
 8. Adonis Tejeda
 7. KRHISTEN JOSEPH
+19. JULIO ARELLANO
