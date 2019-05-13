@@ -2,6 +2,7 @@
 Repositorio utilizado para mostrar como colaborar
 
 1. HENRY GUZMAN
+5. LUIS MORALES
 2. JESUS LLANOS..!!
 3. adrian arevalo..
 7. Jean Pier Muñoz
