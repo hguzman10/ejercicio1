@@ -11,4 +11,4 @@ Repositorio utilizado para mostrar como colaborar
 2.CAMILO AYOLA
 22. MARLO OBREDOR 
 8. Luis Hernandez
-24. juan sebastian tatis
+24. JUAN SEBASTIAN TATIS
