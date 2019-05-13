@@ -13,4 +13,7 @@ Repositorio utilizado para mostrar como colaborar
 10. MARLO OBREDOR 
 11. Luis Hernandez
 5. LUIS MORALES
+24. Camilo Paz
+25. Carlos Granados
+20. Fausto Stand..
 23. francisco charris
