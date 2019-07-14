@@ -23,3 +23,4 @@ Repositorio utilizado para mostrar como colaborar
 8. Adonis Tejeda
 7. KRHISTEN JOSEPH
 19. JULIO ARELLANO
+23. John Mercado
